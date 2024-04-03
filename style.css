@@ -197,7 +197,7 @@ body {
   
   }
   .navbar:target .navB {
-   visibility: hidden;
+   display: none;
 }
 .navbar:target .nav-link{
     display: block;
